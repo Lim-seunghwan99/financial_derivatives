@@ -1,0 +1,35 @@
+{
+  "name": "final_pjt_front",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "ajax": "^0.0.4",
+    "axios": "^1.6.2",
+    "bootstrap": "^5.3.2",
+    "chart.js": "^4.4.0",
+    "dotenv": "^16.3.1",
+    "install": "^0.13.0",
+    "material-design-icons-iconfont": "^6.7.0",
+    "pinia": "^2.1.7",
+    "pinia-plugin-persistedstate": "^3.2.0",
+    "vue": "^3.3.4",
+    "vue-carousel": "^0.18.0",
+    "vue-chartjs": "^5.2.0",
+    "vue-good-table": "^2.21.11",
+    "vue-good-table-next": "^0.2.1",
+    "vue-router": "^4.2.5",
+    "vue3-carousel": "^0.3.1",
+    "vue3-google-map": "^0.18.0",
+    "vuetify": "^3.4.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.4.0",
+    "dotenv-webpack": "^8.0.1",
+    "vite": "^4.4.11"
+  }
+}
